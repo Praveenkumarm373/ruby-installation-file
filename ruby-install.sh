@@ -18,6 +18,6 @@ cd ~/ruby-rails-helloworld
 
 rbenv local 2.3.0
 gem install bundler -v 1.0
-gem install rails -v 5.0.1
+gem install rails -v 3.2.22
 rbenv rehash
 bundler install
